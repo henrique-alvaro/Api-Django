@@ -6,30 +6,31 @@ six==1.15.0
 toml==0.10.1
 typed-ast==1.4.1
 wrapt==1.12.1
-a s g i r e f = = 3 . 7 . 2  
- a s t r o i d = = 2 . 1 5 . 6  
- c o l o r a m a = = 0 . 4 . 6  
- d i l l = = 0 . 3 . 7  
- D j a n g o = = 4 . 2 . 5  
- d j a n g o - f i l t e r = = 2 3 . 3  
- d j a n g o r e s t f r a m e w o r k = = 3 . 1 4 . 0  
- f a k e - f a c t o r y = = 9 9 9 9 . 9 . 9  
- F a k e r = = 1 9 . 6 . 1  
- i s o r t = = 4 . 3 . 2 1  
- l a z y - o b j e c t - p r o x y = = 1 . 4 . 3  
- m c c a b e = = 0 . 6 . 1  
- p l a t f o r m d i r s = = 3 . 1 0 . 0  
- p y l i n t = = 2 . 1 7 . 5  
- p y t h o n - d a t e u t i l = = 2 . 8 . 2  
- p y t z = = 2 0 2 3 . 3 . p o s t 1  
- s i x = = 1 . 1 5 . 0  
- s q l p a r s e = = 0 . 4 . 4  
- t o m l = = 0 . 1 0 . 1  
- t o m l i = = 2 . 0 . 1  
- t o m l k i t = = 0 . 1 2 . 1  
- t y p e d - a s t = = 1 . 5 . 5  
- t y p i n g _ e x t e n s i o n s = = 4 . 7 . 1  
- t z d a t a = = 2 0 2 3 . 3  
- v a l i d a t e - d o c b r = = 1 . 1 0 . 0  
- w r a p t = = 1 . 1 2 . 1  
+asgiref==3.7.2 
+astroid==2.15.6 
+colorama==0.4.6 
+dill==0.3.7 
+Django==4.2.5 
+django-filter==23.3 
+djangorestframework==3.14.0 
+ake-factory==9999.9.9 
+Faker==19.6.1 
+isort==4.3.21 
+lazy-object-proxy==1.4.3 
+mccabe==0.6.1 
+platformdirs==3.10.0 
+pylint==2.17.5 
+python-dateutil==2.8.2 
+pytz==2023.3.post1 
+six==1.15.0 
+sqlparse==0.4.4 
+toml==0.10.1 
+tomli==2.0.1 
+tomlkit==0.12.1 
+typed-ast==1.5.5 
+typing_extensions== 4.7.1 
+tzdata==2023.3 
+validate-docbr==1.10.0 
+wrapt==1.12.1 
+ 
  
